@@ -1,0 +1,3 @@
+Spawn Tom 3.6 -1 0 -90
+Tom GoTo 3.6 1.3 0 -90
+Tom LookAround 10
